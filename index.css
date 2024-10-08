@@ -10,10 +10,10 @@ body {
 
 .container {
     text-align: center;
-    background-color: #fff;
+    background-color: rgba(243, 213, 22, 0.853);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(137, 25, 25, 0.1);
+    box-shadow: 0 4px 8px rgba(252, 252, 252, 0.1);
 }
 
 .guess-input {
